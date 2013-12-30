@@ -55,7 +55,7 @@
 				<span class="space"/><span class="comments">* 然后，世界上总有一些无聊的技术宅</span><br />
 				<span class="space"/><span class="comments">* 感谢<a href="https://github.com/Jing0/Happy_New_Year">@Jing</a>写了初始页面，感谢<a href="https://github.com/MrMission/2014NewYear">@MrMission</a>修改了BUG</span><br />
 				<span class="space"/><span class="comments">**/</span><br />
-				Boy i = <span class="keyword">new</span> Boy(<span class="string">"liuzheng"</span>);<br />
+				Boy i = <span class="keyword">new</span> Boy(<span class="string">"Jackie"</span>);<br />
 				Life u = <span class="keyword">new</span> Life(<span class="string">"2014"</span>);<br />
 				<span class="placeholder"/><span class="comments">// The New Year's bell is about to ring, and 2014 will soon begin.</span><br />
 				<span class="keyword">boolean</span> newyear = <span class="keyword">true</span>;<br />
